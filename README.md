@@ -13,7 +13,6 @@
 #### Packages: See environment.yml for a full list of dependencies.
 ## Feature Explanation
 #### TENURE: Length of time the customer has been with Expresso.
-#### REVENUE: Monthly income of each customer.
 #### DATA_VOLUME: Number of connections by the customer.
 #### FREQUENCE: Frequency of transactions or interactions.
 #### TOP_PACK: Preferred package by the customer.
@@ -23,9 +22,6 @@
 #### ARPU_SEGMENT: Income over 90 days divided by 3
 #### ON-NET: Inter expresso call
 #### ORANGE: Calls to Orange
-#### ZONE1: Calls to zones1
-#### ZONE2: Calls to zone2
-#### MRG: A client who is going
 #### REGULARITY: A number of times the client is active for 90 days
 #### FREQ_TOP_PACK: Number of times the client has activated the preferred package
 #### CHURN: The probability a customer will churn
